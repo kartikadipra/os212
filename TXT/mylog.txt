@@ -9,5 +9,4 @@ ZCZC W00  45 L08 Asking AsDos about my github account problem
 ZCZC W00 120 L10 Assignment #00 (Including Assignment 1, 2, 3, 4, 5)
 ZCZC W00  35 L30 Watching Udacity : https://www.youtube.com/playlist?list=PLqoiDr4YpRdm_nzFhCDuj74P8ul5z7SdO
 ZCZC W00  15 L80 Watching Intel vs AMD video from https://www.youtube.com/watch?v=254PirhmZQk
-ZCZC W00  25 L80 Watching Inside The Internet: 50 Life-Changing Years from National Geographic Documentary
-ZCZC W00  45 L80 Watching Linux Sucks 2021 from https://www.youtube.com/watch?v=WtJ9T_IJOPE
+ZCZC W00  25 L80 Watching Inside The Internet: 50 Life-Changing Years from National Geographic Documentar
