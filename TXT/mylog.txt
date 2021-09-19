@@ -19,3 +19,7 @@ ZCZC W01 100 L61 Reinstall Virtual Box
 ZCZC W01 100 L62 Reinstall Virtual Debian Guest
 ZCZC W01  60 L21 Trying nano text editor
 ZCZC W01 300 L11 Assignment #01 (Including Assignment 1,2,3,4,5,6,7,8)
+ZCZC W02 180 L12 Assignment #02
+ZCZC W02 180 L01 Scele related
+ZCZC W02  60 L03 Github related
+ZCZC W02 180 L71 Working as live stream co-operator at Fasilkom's Virtual Graduation
