@@ -23,3 +23,7 @@ ZCZC W02 180 L12 Assignment #02
 ZCZC W02 180 L01 Scele related
 ZCZC W02  60 L03 Github related
 ZCZC W02 180 L71 Working as live stream co-operator at Fasilkom's Virtual Graduation
+ZCZC W03 170 L01 Scele related
+ZCZC W03 120 L03 Trying Demo 03 which availabe on Operating System - Fasilkom UI's github
+ZCZC W03  60 L08 Asking asdos about installing sudo in non root account
+
