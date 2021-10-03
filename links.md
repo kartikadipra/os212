@@ -14,3 +14,9 @@ Ini adalah salah satu video yang menjelaskan prinsip dari file dan _file system_
 
 4. [Quick Review of Operating System](https://www.youtube.com/watch?v=26QPDBe-NB8&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=20) <br>
 Video ini menjelaskan tentang apa itu OS, sejarah OS, dan OS di masa kini.
+
+5. [Main Memory (Chapter 09 Explanation Part 1)](https://www.youtube.com/watch?v=Jy_teuaj7Ic) <br>
+Video ini menjelaskan slide chapter 09 yang ada di [https://www.os-book.com/OS10/slide-dir/](https://www.os-book.com/OS10/slide-dir/)
+
+6. [aMain Memory (Chapter 09 Explanation Part 2)](https://www.youtube.com/watch?v=8Zw4gIqqZe0) <br>
+Video ini merupakan lanjutan dari video no. 5, yang menjelaskan slide chapter 09 yang ada di [https://www.os-book.com/OS10/slide-dir/](https://www.os-book.com/OS10/slide-dir/) <br>
