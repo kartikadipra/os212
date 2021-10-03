@@ -18,5 +18,5 @@ Video ini menjelaskan tentang apa itu OS, sejarah OS, dan OS di masa kini.
 5. [Main Memory (Chapter 09 Explanation Part 1)](https://www.youtube.com/watch?v=Jy_teuaj7Ic) <br>
 Video ini menjelaskan slide chapter 09 yang ada di [https://www.os-book.com/OS10/slide-dir/](https://www.os-book.com/OS10/slide-dir/)
 
-6. [aMain Memory (Chapter 09 Explanation Part 2)](https://www.youtube.com/watch?v=8Zw4gIqqZe0) <br>
+6. [Main Memory (Chapter 09 Explanation Part 2)](https://www.youtube.com/watch?v=8Zw4gIqqZe0) <br>
 Video ini merupakan lanjutan dari video no. 5, yang menjelaskan slide chapter 09 yang ada di [https://www.os-book.com/OS10/slide-dir/](https://www.os-book.com/OS10/slide-dir/) <br>
