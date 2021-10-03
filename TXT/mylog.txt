@@ -28,5 +28,10 @@ ZCZC W03 120 L03 Trying Demo 03 which availabe on Operating System - Fasilkom UI
 ZCZC W03  60 L08 Asking asdos about installing sudo in non root account
 ZCZC W03 180 L09 (Including Assignment 1,2,3,4,5,6,7,8,9 for W03's Assignment)
 ZCZC W03  60 L06 GSGS for answering forum's question
+ZCZC W04  60 L03 Trying Demo 04 which available on Operating System - Fasilkom UI
+ZCZC W04 120 L09 Assignment for W04 (Including Assignment 1,2,3,4,5,6,7,8,9)
+ZCZC W04  60 L26 Learning about pointer and address in C-language (the "*" and "&" keyword)
+ZCZC W04  60 L32 Studying Main Memory from https://www.youtube.com/watch?v=Jy_teuaj7Ic
+
 
 
