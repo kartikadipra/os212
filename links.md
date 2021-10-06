@@ -20,3 +20,9 @@ Video ini menjelaskan slide chapter 09 yang ada di [https://www.os-book.com/OS10
 
 6. [Main Memory (Chapter 09 Explanation Part 2)](https://www.youtube.com/watch?v=8Zw4gIqqZe0) <br>
 Video ini merupakan lanjutan dari video no. 5, yang menjelaskan slide chapter 09 yang ada di [https://www.os-book.com/OS10/slide-dir/](https://www.os-book.com/OS10/slide-dir/) <br>
+
+7. [What is Virtual Memory?](https://www.youtube.com/watch?v=qlH4-oHnBb8)
+Video ini memberikan penjelasan mengenai pengertian serta cara kerja _virtual memory_ dengan singkat.
+
+8. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+
