@@ -26,3 +26,18 @@ Video ini memberikan penjelasan mengenai pengertian serta cara kerja _virtual me
 
 8. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) <br>
 Website ini menjelaskan mengenai definisi, cara kerja, keuntungan dari _virtual memory_. Selain itu, dijelaskan pula _demand paging_, _page fault service time_, _swapping_, dan _thrashing_. <br> 
+
+9. [Processes (Chapter 3)](https://www.youtube.com/watch?v=OrM7nZcxXZU&list=PLBlnK6fEyqRgKl0MbI6kbI5ffNt7BF8Fn)
+_Playlist_ ini berisikan penjelasan untuk materi di chapter 3, yaitu _Processes_. <br>
+
+10. [Processes Summary](https://www.geeksforgeeks.org/states-of-a-process-in-operating-systems/)
+Website ini berisikan rangkuman sebagian dari matari chapter 3. <br>
+
+11. [Processes Summary (2)](https://www.tutorialspoint.com/operating_system/os_processes.htm)
+Website ini juga berisikan rangkuman sebagian dari matari chapter 3. <br>
+
+12. [Concurrency Summary](https://www.geeksforgeeks.org/concurrency-in-operating-system/)
+Website ini berisikan sedikit rangkuman mengenai _concurrency_ dari matari chapter 4. <br>
+
+13. [Thread Summary](https://www.geeksforgeeks.org/thread-in-operating-system/)
+Website ini  berisikan sedikit rangkuman mengenai _thread_ dari matari chapter 4. <br>
