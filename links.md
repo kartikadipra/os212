@@ -40,4 +40,13 @@ Website ini juga berisikan rangkuman sebagian dari matari chapter 3. <br>
 Website ini berisikan sedikit rangkuman mengenai _concurrency_ dari matari chapter 4. <br>
 
 13. [Thread Summary](https://www.geeksforgeeks.org/thread-in-operating-system/) <br>
-Website ini  berisikan sedikit rangkuman mengenai _thread_ dari matari chapter 4. <br>
+Website ini berisikan sedikit rangkuman mengenai _thread_ dari matari chapter 4. <br>
+
+14. [Race Condition](https://searchstorage.techtarget.com/definition/race-condition) <br>
+Website ini berisi penjelasan mengenai _Race Condition_. <br>
+
+15. [Semaphore](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/) <br>
+Website ini berisi penjelasan mengenai _Sempahore_. <br>
+
+16. [Deadlock](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) <br>
+Website ini berisi penjelasan mengenai _Deadlock_. <br>
