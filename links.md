@@ -50,3 +50,10 @@ Website ini berisi penjelasan mengenai _Sempahore_. <br>
 
 16. [Deadlock](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) <br>
 Website ini berisi penjelasan mengenai _Deadlock_. <br>
+
+17. [CPU Scheduling](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/) <br>
+Website ini berisi rangkuman mengenai _CPU Scheduling_. <br>
+
+18. [CPU Scheduling's Playlist](https://www.youtube.com/watch?v=EWkQl0n0w5M&list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk&pbjreload=102) <br>
+_Playlist_ ini berisi video penjelasan mengenai _CPU Scheduling_ yang dibalut dalam animasi. <br>
+
