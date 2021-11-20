@@ -48,5 +48,7 @@ ZCZC W08 180 L09 Assignment for W08 (Including Assignment 1,2,3,4,5,6,7,8,9,10)
 ZCZC W08 300 L70 Finishing TP 2 for SDA's course
 ZCZC W08  15 L06 GSGS about how to extract tarball
 ZCZC W08  60 L32 Watching https://www.youtube.com/watch?v=xVKFOJQOFWE&list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE&index=9, as guide for helping me finishing W08's assignments
-
+ZCZC W09 120 L01 Replying thread on MPPI, Alin's course
+ZCZC W09  60 L06 GSGS about configure: error: cannot compute suffix of object files: cannot compile on 7.2.2 chapter 7
+ZCZC W09 180 L09 Assignment for W09 (Including AssignDment 1,2,3,4,5,6,7,8,9)
 

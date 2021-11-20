@@ -57,3 +57,20 @@ Website ini berisi rangkuman mengenai _CPU Scheduling_. <br>
 18. [CPU Scheduling's Playlist](https://www.youtube.com/watch?v=EWkQl0n0w5M&list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk&pbjreload=102) <br>
 _Playlist_ ini berisi video penjelasan mengenai _CPU Scheduling_ yang dibalut dalam animasi. <br>
 
+19. [Mass Storage System Video Explanation](https://www.youtube.com/watch?v=KMETs6ONOoI) <br>
+Video ini berisikan penjelasan mengenai _Mass Storage System_ yang dibalut dalam animasi sederhana. <br>
+
+20. [HDD Scheduling](https://www.geeksforgeeks.org/disk-scheduling-algorithms/) <br>
+Website ini berisikan penjelasan mengenai _HDD Scheduling_. <br>
+
+21. [Error Detection and Correction](https://www.tutorialspoint.com/computer_logical_organization/error_codes.htm) <br>
+Webstie ini berisi penjelasan singkat mengenai _Error Detection and Correction_. <br>\
+
+22. [Storage Device Management](https://iphs-tech.medium.com/device-management-in-operating-system-b8e8064b328#:~:text=Device%20management%20in%20operating%20system%20implies%20the%20management%20of%20the,supporting%20units%20like%20control%20channels.) <br>
+Website ini berisi penjelasan mengenai _Storage Device Management_. <br>
+
+23. [Swap-Space Management](https://www.geeksforgeeks.org/swap-space-management-in-operating-system/) <br>
+Website ini berisi penjelasan mengenai _Swap-space Management_. <br>d
+
+24. [RAID Structure](https://www.youtube.com/watch?v=uag1k3yvgQY&pbjreload=102) <br>
+Video yang menjelaskan mengenai RAID yang dikemas dalam bentuk animasi. <br> 
